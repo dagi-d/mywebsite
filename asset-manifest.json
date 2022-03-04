@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mywebsite/static/css/main.7a8faa4f.css",
-    "main.js": "/mywebsite/static/js/main.f0a38f3f.js",
+    "main.js": "/mywebsite/static/js/main.c06066e0.js",
     "static/media/dagi.png": "/mywebsite/static/media/dagi.07ae2da9d16e60551f1c.png",
     "index.html": "/mywebsite/index.html",
     "main.7a8faa4f.css.map": "/mywebsite/static/css/main.7a8faa4f.css.map",
-    "main.f0a38f3f.js.map": "/mywebsite/static/js/main.f0a38f3f.js.map"
+    "main.c06066e0.js.map": "/mywebsite/static/js/main.c06066e0.js.map"
   },
   "entrypoints": [
     "static/css/main.7a8faa4f.css",
-    "static/js/main.f0a38f3f.js"
+    "static/js/main.c06066e0.js"
   ]
 }
